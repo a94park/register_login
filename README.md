@@ -1,3 +1,3 @@
 # register_login
 
-boiler point server-side, connecting to the database (CRUD)
+boiler plate server-side, connecting to the database (CRUD), foreignkeys
